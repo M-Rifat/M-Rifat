@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mobinulislam27@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Online Profile:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mobinulislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mobinulislam/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/wizard_carlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/wizard_carlo" height="30" width="40" /></a>
