@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **e-commerce project.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/M-Rifat?tab=repositories](https://github.com/M-Rifat?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/M-Rifat?tab=repositories">here</a>
 
 - 📫 How to reach me **mobinulislam27@gmail.com**
 
