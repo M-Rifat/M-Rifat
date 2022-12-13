@@ -27,4 +27,4 @@
 <h3 align="left">My contribution graph🐍</h3>
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+![M-Rifat snake gif](https://github.com/M-Rifat/Contribution-Snake/blob/main/github-contribution-grid-snake.svg)
