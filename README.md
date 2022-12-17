@@ -6,7 +6,7 @@
 <h3 align="center">A Passionate Developer and Problem Solver.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <br>
 
-- 🌱 I’m currently learning **MERN STACK Development.**
+- 🌱 I’m currently learning **MERN STACK Web Development.**
 
 - 🔭 I’m currently working on **e-commerce project.**
 
