@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN STACK Web Development.**
 
-- 🔭 I’m currently working on **e-commerce project.**
+- 🔭 I’m currently working on a **Medical Project.**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/M-Rifat?tab=repositories">here</a>
 
