@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development.**
 
-- 🔭 I’m currently working on a **E-Learning Project.** using React. 
+- 🔭 I’m currently working on a **E-Learning Project** using React. 
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/M-Rifat?tab=repositories">here</a>
 
