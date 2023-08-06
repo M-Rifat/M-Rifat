@@ -6,9 +6,9 @@
 <h3 align="center">A Passionate Developer and Problem Solver.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <br>
 
-- 🌱 I’m currently learning **MERN STACK Web Development.**
+- 🌱 I’m currently learning **Web Development.**
 
-- 🔭 I’m currently working on a **Medical Project.**
+- 🔭 I’m currently working on a **E-Learning Project.** using React. 
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/M-Rifat?tab=repositories">here</a>
 
@@ -27,4 +27,4 @@
 <h3 align="left">My contribution graph🐍</h3>
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![M-Rifat snake gif](https://github.com/M-Rifat/Contribution-Snake/blob/main/github-contribution-grid-snake.svg)
+<!--![M-Rifat snake gif](https://github.com/M-Rifat/Contribution-Snake/blob/main/github-contribution-grid-snake.svg)-->
