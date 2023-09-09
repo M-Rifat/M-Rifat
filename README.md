@@ -32,6 +32,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -41,7 +42,7 @@
 <h3 align="left">Certification:</h3>
 <p align="top">
    <a href="https://www.linkedin.com/in/mobinulislam/overlay/1635525810711/single-media-viewer/?profileId=ACoAAC9pAtMBqx0aZE_bJVcb0oPH3Y-DnlFkLZk" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" alt="icon" width="40" height="40"/> </a>
- **Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.**
+ <b>Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.</b>
     </p>
 <br>
 
