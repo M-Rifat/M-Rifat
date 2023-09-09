@@ -39,8 +39,10 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <h3 align="left">Certification:</h3>
-<p align="left"> Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.
-    <a href="https://www.linkedin.com/in/mobinulislam/overlay/1635525810711/single-media-viewer/?profileId=ACoAAC9pAtMBqx0aZE_bJVcb0oPH3Y-DnlFkLZk" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/svg/423007/certificate-award-trophy" alt="icon" width="40" height="40"/> </a> </p>
+<p align="left">
+   <a href="https://www.linkedin.com/in/mobinulislam/overlay/1635525810711/single-media-viewer/?profileId=ACoAAC9pAtMBqx0aZE_bJVcb0oPH3Y-DnlFkLZk" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" alt="icon" width="40" height="40"/> </a>
+  Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.
+    </p>
 <br>
 
 <!-- platane/snk works, it just puts it on a new branch -->
