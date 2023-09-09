@@ -41,7 +41,7 @@
 <h3 align="left">Certification:</h3>
 <p align="top">
    <a href="https://www.linkedin.com/in/mobinulislam/overlay/1635525810711/single-media-viewer/?profileId=ACoAAC9pAtMBqx0aZE_bJVcb0oPH3Y-DnlFkLZk" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" alt="icon" width="40" height="40"/> </a>
- **Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.
+ **Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.**
     </p>
 <br>
 
