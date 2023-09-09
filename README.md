@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on a **E-Learning Project** using React. 
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/M-Rifat?tab=repositories">here</a>
+- 📚 All of my projects are available at <a href="https://github.com/M-Rifat?tab=repositories">here</a>
 
-- 📫 How to reach me **mobinulislam27@gmail.com**
+- 📧 How to reach me **mobinulislam27@gmail.com**
 
 <h3 align="left">Online Profile:</h3>
 <p align="left">
@@ -40,9 +40,9 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <h3 align="left">Certification:</h3>
-<p align="top">
+<p align="left">
    <a href="https://www.linkedin.com/in/mobinulislam/overlay/1635525810711/single-media-viewer/?profileId=ACoAAC9pAtMBqx0aZE_bJVcb0oPH3Y-DnlFkLZk" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" alt="icon" width="40" height="40"/> </a>
- <b>Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.</b>
+ <b>  Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.</b>
     </p>
 <br>
 
