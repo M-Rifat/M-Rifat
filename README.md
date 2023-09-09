@@ -40,7 +40,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <h3 align="left">Certification:</h3>
 <p align="left"> Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.
-    <a href="https://www.linkedin.com/in/mobinulislam/overlay/1635525810711/single-media-viewer/?profileId=ACoAAC9pAtMBqx0aZE_bJVcb0oPH3Y-DnlFkLZk" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/layers_4205106?term=web+development&related_id=4205106" alt="unity" width="40" height="40"/> </a> </p>
+    <a href="https://www.linkedin.com/in/mobinulislam/overlay/1635525810711/single-media-viewer/?profileId=ACoAAC9pAtMBqx0aZE_bJVcb0oPH3Y-DnlFkLZk" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/svg/423007/certificate-award-trophy" alt="icon" width="40" height="40"/> </a> </p>
 <br>
 
 <!-- platane/snk works, it just puts it on a new branch -->
