@@ -6,7 +6,7 @@
 <h3 align="center">I hold a B.Sc. in Information and Communication Engineering from the University of Rajshahi and am pursuing an M.Sc. in the same field. My studies and hands-on projects have enhanced my expertise in software testing & development, and honed my analytical and technical skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <br>
 
-- 🌱 Currently learning: Exploring advanced techniques in Software Testing to enhance my skill set.
+- 🌱 Currently learning: Exploring advanced techniques in Software Quality Assurance to enhance my skill set.
 
 - 🔭 Software Testing Project:
            -  <a href="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System"> Testing: Bangladesh Railway e-Ticketing System</a>
