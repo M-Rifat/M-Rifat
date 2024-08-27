@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/mobinulislam"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Md. Mobinul Islam</h1>
-<h3 align="center">I hold a B.Sc. degree in Information and Communication Engineering from the University of Rajshahi and am currently pursuing my M.Sc. in the same field. Throughout my academic journey, I have developed a solid understanding of software development and testing methodologies. My hands-on experience with real-world projects has honed my analytical and technical skills.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">I hold a B.Sc. in Information and Communication Engineering from the University of Rajshahi and am pursuing an M.Sc. in the same field. My studies and hands-on projects have enhanced my expertise in software testing & development, and honed my analytical and technical skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <br>
 
 - 🌱 Currently learning: Exploring advanced techniques in Software Testing to enhance my skill set.
