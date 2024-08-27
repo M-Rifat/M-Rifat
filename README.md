@@ -3,12 +3,17 @@
 <a href="https://www.linkedin.com/in/mobinulislam"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Md. Mobinul Islam</h1>
-<h3 align="center">A Passionate Developer and Problem Solver.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">I hold a B.Sc. degree in Information and Communication Engineering from the University of Rajshahi and am currently pursuing my M.Sc. in the same field. Throughout my academic journey, I have developed a solid understanding of software development and testing methodologies. My hands-on experience with real-world projects has honed my analytical and technical skills.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <br>
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 Currently learning: Exploring advanced techniques in Software Testing to enhance my skill set.
 
-- 🔭 I’m currently working on a **E-Learning Project** using React. 
+- 🔭 Software Testing Project:
+           -  <a href="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System"> Testing: Bangladesh Railway e-Ticketing System</a>
+           -  <a href="https://github.com/M-Rifat/API_Testing_Postman">API Testing</a>  -  <a href="https://github.com/M-Rifat/Performance_Testing_JMeter">Performance Testing</a>
+- 🔭 Academic Project:
+           -  <a href="https://github.com/M-Rifat/MediHub">Medihub</a>
+           -  <a href="https://github.com/M-Rifat/Class-Routine-Management-System">Class Routine Management System</a>
 
 - 📚 All of my projects are available at <a href="https://github.com/M-Rifat?tab=repositories">here</a>
 
