@@ -8,10 +8,10 @@
 
 - 🌱 Currently learning: Exploring advanced techniques in Software Quality Assurance to enhance my skill set.
 
-- 🔭 Software Testing Project:
+- 🔭 Featured Testing Project:
            -  <a href="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System"> Testing: Bangladesh Railway e-Ticketing System</a>
            -  <a href="https://github.com/M-Rifat/API_Testing_Postman">API Testing</a>  -  <a href="https://github.com/M-Rifat/Performance_Testing_JMeter">Performance Testing</a>
-- 🔭 Academic Project:
+- 🔭 Featured Academic Project:
            -  <a href="https://github.com/M-Rifat/MediHub">Medihub</a>
            -  <a href="https://github.com/M-Rifat/Class-Routine-Management-System">Class Routine Management System</a>
 
