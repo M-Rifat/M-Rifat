@@ -25,7 +25,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mobinulislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mobinulislam/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/M_Rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/M_Rifat" height="30" width="40" /></a>
-
   <a href="https://discordapp.com/users/1064403364437299280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md. Mobinul Islam#6059" height="30" width="40" /></a>
 </p>
 
