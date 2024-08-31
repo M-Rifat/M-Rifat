@@ -3,10 +3,11 @@
 <a href="https://www.linkedin.com/in/mobinulislam"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Md. Mobinul Islam</h1>
-<h3 align="center">I hold a B.Sc. in Information and Communication Engineering from the University of Rajshahi and am pursuing an M.Sc. in the same field. My studies and hands-on projects have enhanced my expertise in software testing & development, and honed my analytical and technical skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+>><h3 align="center">Studies M.Sc. in ICE,RU</h3> >>
+<h3 align="center">Completed B.Sc. in ICE,RU</h3>
 <br>
 
-- 🌱 Currently learning: Exploring advanced techniques in Software Quality Assurance to enhance my skill set.
+- 🌱 Currently learning: Exploring advanced techniques in Software Quality Assurance to enhance my skill set.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 Featured Testing Project:
            -  <a href="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System"> Testing: Bangladesh Railway e-Ticketing System</a>
