@@ -6,7 +6,9 @@
 
 <br>
 
-- 🌱 Currently learning: Exploring advanced techniques in Software Quality Assurance to enhance my skill set.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Welcome! I am passionate about Software Quality Assurance and am always eager to learn and explore new technologies.
+
+- 🌱 Currently learning: Exploring advanced techniques in Software Testing to enhance my skill set.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 Featured Testing Project:
            -  <a href="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System"> Testing: Bangladesh Railway e-Ticketing System</a>
@@ -23,58 +25,45 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mobinulislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mobinulislam/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/M_Rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/M_Rifat" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/m_rifat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/m_rifat/" height="30" width="40" /></a> -->
+
   <a href="https://discordapp.com/users/1064403364437299280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md. Mobinul Islam#6059" height="30" width="40" /></a>
 </p>
 
-# 👋 Hi there! I'm Md. Mobinul Islam
+Feel free to check out my repositories and get in touch if you want to collaborate or learn more about my work!
 
-Welcome to my GitHub profile! I am passionate about Software Quality Assurance and am always eager to learn and explore new technologies.
 
 ## 🚀 Skills & Technologies
 
 ### Languages & Tools
 
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-- ![OOP](https://img.shields.io/badge/-OOP-007396?style=flat&logo=java&logoColor=white) <!-- No specific icon for OOP, using Java for reference -->
-- ![DSA](https://img.shields.io/badge/-DSA-007396?style=flat&logo=java&logoColor=white) <!-- No specific icon for DSA, using Java for reference -->
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+ ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+ ![OOP](https://img.shields.io/badge/-OOP-007396?style=flat&logo=java&logoColor=white) <!-- No specific icon for OOP, using Java for reference -->
+ ![DSA](https://img.shields.io/badge/-DSA-007396?style=flat&logo=java&logoColor=white) <!-- No specific icon for DSA, using Java for reference -->
+ ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+ ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+ ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Testing Tools
 
-- ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-- ![TestNG](https://img.shields.io/badge/-TestNG-00A1E0?style=flat&logo=testng&logoColor=white)
-- ![Appium](https://img.shields.io/badge/-Appium-1B1F23?style=flat&logo=appium&logoColor=white)
-- ![JMeter](https://img.shields.io/badge/-JMeter-F6C743?style=flat&logo=apache-jmeter&logoColor=black)
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+ ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+ ![TestNG](https://img.shields.io/badge/-TestNG-00A1E0?style=flat&logo=testng&logoColor=white)
+ ![Appium](https://img.shields.io/badge/-Appium-1B1F23?style=flat&logo=appium&logoColor=white)
+ ![JMeter](https://img.shields.io/badge/-JMeter-F6C743?style=flat&logo=apache-jmeter&logoColor=black)
+ ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### Project Management Tools
 
 - ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-- ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
+ ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 
 ### IDEs & Editors
 
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Md. Mobinul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
-
-## 📫 How to Reach Me
-
-- Email: [mobinulislam27@gmail.com](mailto:mobinulislam27@gmail.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- [Personal Website](http://yourwebsite.com)
-
-Feel free to check out my repositories and get in touch if you want to collaborate or learn more about my work!
+ ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+ ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 
   
