@@ -6,22 +6,85 @@
 
 <br>
 
-🌱 Currently learning: Exploring advanced techniques in Software Quality Assurance to enhance my skill set.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 Currently learning: Exploring advanced techniques in Software Quality Assurance to enhance my skill set.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🔭 Featured Testing Project:
+- 🔭 Featured Testing Project:
+           -  <a href="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System"> Testing: Bangladesh Railway e-Ticketing System</a>
+           -  <a href="https://github.com/M-Rifat/API_Testing_Postman">API Testing</a>  -  <a href="https://github.com/M-Rifat/Performance_Testing_JMeter">Performance Testing</a>
+- 🔭 Featured Academic Project:
+           -  <a href="https://github.com/M-Rifat/MediHub">Medihub</a>
+           -  <a href="https://github.com/M-Rifat/Class-Routine-Management-System">Class Routine Management System</a>
 
-<a href="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System">Testing: Bangladesh Railway e-Ticketing System</a>
-<a href="https://github.com/M-Rifat/API_Testing_Postman">API Testing</a>
-<a href="https://github.com/M-Rifat/Performance_Testing_JMeter">Performance Testing</a>
-🔭 Featured Academic Project:
+- 📚 All of my projects are available at <a href="https://github.com/M-Rifat?tab=repositories">here</a>
 
-<a href="https://github.com/M-Rifat/MediHub">Medihub</a>
-<a href="https://github.com/M-Rifat/Class-Routine-Management-System">Class Routine Management System</a>
-📚 All of my projects are available here.
+- 📧 How to reach me **mobinulislam27@gmail.com**
 
-📧 How to reach me: mobinulislam27@gmail.com
+<h3 align="left">Online Profile:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mobinulislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mobinulislam/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/M_Rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/M_Rifat" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/m_rifat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/m_rifat/" height="30" width="40" /></a> -->
+  <a href="https://discordapp.com/users/1064403364437299280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md. Mobinul Islam#6059" height="30" width="40" /></a>
+</p>
 
-<h3 align="left">🌐 Online Profile:</h3> <p align="left"> <a href="https://www.linkedin.com/in/mobinulislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://codeforces.com/profile/M_Rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a> <a href="https://discordapp.com/users/1064403364437299280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a> </p> <h3 align="left">🛠️ Languages and Tools:</h3> <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> </a> </p> <h3 align="left">📜 Certification:</h3> <p align="left"> <a href="https://www.linkedin.com/in/mobinulislam/overlay/1635525810711/single-media-viewer/?profileId=ACoAAC9pAtMBqx0aZE_bJVcb0oPH3Y-DnlFkLZk" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" alt="icon" width="40" height="40"/> </a> <b>Spring Rain Pvt Ltd. provided a three-month training on HTML, CSS, JavaScript & React.</b> </p>
+# 👋 Hi there! I'm Md. Mobinul Islam
+
+Welcome to my GitHub profile! I am passionate about Software Quality Assurance and am always eager to learn and explore new technologies.
+
+## 🚀 Skills & Technologies
+
+### Languages & Tools
+
+- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- ![OOP](https://img.shields.io/badge/-OOP-007396?style=flat&logo=java&logoColor=white) <!-- No specific icon for OOP, using Java for reference -->
+- ![DSA](https://img.shields.io/badge/-DSA-007396?style=flat&logo=java&logoColor=white) <!-- No specific icon for DSA, using Java for reference -->
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Testing Tools
+
+- ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+- ![TestNG](https://img.shields.io/badge/-TestNG-00A1E0?style=flat&logo=testng&logoColor=white)
+- ![Appium](https://img.shields.io/badge/-Appium-1B1F23?style=flat&logo=appium&logoColor=white)
+- ![JMeter](https://img.shields.io/badge/-JMeter-F6C743?style=flat&logo=apache-jmeter&logoColor=black)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### Project Management Tools
+
+- ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+- ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
+
+### IDEs & Editors
+
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Md. Mobinul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+
+## 📫 How to Reach Me
+
+- Email: [mobinulislam27@gmail.com](mailto:mobinulislam27@gmail.com)
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- [Personal Website](http://yourwebsite.com)
+
+Feel free to check out my repositories and get in touch if you want to collaborate or learn more about my work!
+
+
+  
+<h3 align="left">Certification:</h3>
+<p align="left">
+   <a href="https://www.linkedin.com/in/mobinulislam/overlay/1635525810711/single-media-viewer/?profileId=ACoAAC9pAtMBqx0aZE_bJVcb0oPH3Y-DnlFkLZk" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" alt="icon" width="40" height="40"/> </a>
+ <b>  Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.</b>
+    </p>
+<br>
+
 
 <!-- platane/snk works, it just puts it on a new branch -->
 <!--![M-Rifat snake gif](https://github.com/M-Rifat/Contribution-Snake/blob/main/github-contribution-grid-snake.svg)-->
