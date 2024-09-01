@@ -7,9 +7,9 @@
 <br>
 
 >> <h3 align="center">Welcome! I am passionate about Software Quality Assurance and am always eager to learn and explore new technologies.</h3> 
->>  :)
+>> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🌱 Currently learning: Exploring advanced techniques in Software Testing to enhance my skill set.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 Currently learning: Exploring advanced techniques in Software Testing to enhance my skill set.
 
 - 🔭 Featured Testing Project:
            - 🎫 <a href="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System"> Testing: Bangladesh Railway e-Ticketing System</a>
