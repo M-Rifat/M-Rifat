@@ -31,18 +31,18 @@
 
 >> Feel free to check out my repositories and get in touch if you want to collaborate or learn more about my work!
 
-##  Certifications:
+📚 **Certifications:**
 
-- The Complete 2024 Software Testing Bootcamp, Udemy [![Udemy Badge](https://img.shields.io/badge/Udemy-Complete_2024_Software_Testing_Bootcamp-orange)]([https://www.udemy.com](https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view))
+- [![Udemy Badge](https://img.shields.io/badge/Udemy-Complete_2024_Software_Testing_Bootcamp-orange)](https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view)  
+  _The Complete 2024 Software Testing Bootcamp_  
+  SQA Basics • SDLC • STLC • Agile • Manual Testing • Automation Testing • API Testing • Performance Testing • Test Planning, Design & Execution • Bug Reporting • Testing Tools
 
-SQA Basics • SDLC • STLC • Agile • Manual Testing • Automation Testing • API Testing • Performance Testing • Testing Techniques • Test Planning, Design & Execution • Bug Reporting • Testing Tools
+- [![Spring Rain Badge](https://img.shields.io/badge/Spring_Rain-Career_Development_Program-blue)](https://drive.google.com/file/d/1nWsQaMWUWw_ZUt8LBokNuxnTBbIe7bWO/view)  
+  _Career Development Program_  
+  Completed a three-month training on HTML, CSS, JavaScript & React.
 
-- Career Development Program
-Spring Rain Pvt Ltd.
-Completed a three-month training on HTML, CSS, JavaScript & React.
-
-- SQL (Basic)
-Certified by HackerRank
+- [![HackerRank Badge](https://img.shields.io/badge/HackerRank-SQL_(Basic)_Certification-brightgreen)](https://www.hackerrank.com/certificates/4567f46fa24e)  
+  _SQL (Basic) Certified by HackerRank_
 
 <br>
 
