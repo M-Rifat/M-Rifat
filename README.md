@@ -33,20 +33,14 @@
 
 📚 **Certifications:**
 
-- <a href="https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view"><img src="https://img.shields.io/badge/Udemy-Complete_2024_Software_Testing_Bootcamp-orange" height="25"> <img src="https://img.icons8.com/ios-filled/20/0000ff/link.png" alt="link icon"/></a>  
-  **The Complete 2024 Software Testing Bootcamp**  
+- <a href="https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view"><img src="https://img.shields.io/badge/Udemy-Complete_2024_Software_Testing_Bootcamp-orange" height="25"> <img src="https://img.icons8.com/ios-filled/20/0000ff/link.png" alt="link icon"/></a>   
   - _Platform:_ Udemy  
   - _Topics:_ SQA Basics, SDLC, STLC, Agile, Manual Testing, Automation Testing, API Testing, Performance Testing, Testing Techniques, Test Planning, Design & Execution, Bug Reporting, Testing Tools
 
-- <a href="https://drive.google.com/file/d/1nWsQaMWUWw_ZUt8LBokNuxnTBbIe7bWO/view"><img src="https://img.shields.io/badge/Spring_Rain-Career_Development_Program-blue" height="25"> <img src="https://img.icons8.com/ios-filled/20/0000ff/link.png" alt="link icon"/></a>  
-  **Career Development Program**  
-  - _Provided by:_ Spring Rain Pvt Ltd  
+- <a href="https://drive.google.com/file/d/1nWsQaMWUWw_ZUt8LBokNuxnTBbIe7bWO/view"><img src="https://img.shields.io/badge/Spring_Rain_Pvt_Ltd-Career_Development_Program-blue" height="25"> <img src="https://img.icons8.com/ios-filled/20/0000ff/link.png" alt="link icon"/></a>   
   - _Training:_ HTML, CSS, JavaScript, React (three-months training)
 
 - <a href="https://www.hackerrank.com/certificates/4567f46fa24e"><img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)_Certification-brightgreen" height="25"> <img src="https://img.icons8.com/ios-filled/20/0000ff/link.png" alt="link icon"/></a>  
-  **SQL (Basic)**  
-  - _Certified by:_ HackerRank  
-
 
 
 <br>
