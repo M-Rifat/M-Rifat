@@ -33,19 +33,21 @@
 
 📚 **Certifications:**
 
-- [![Link Icon](https://img.icons8.com/ios-glyphs/30/000000/link.png)](https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view)  
+- [<img src="https://img.icons8.com/ios-glyphs/30/000000/link.png"/>](https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view)  
   **The Complete 2024 Software Testing Bootcamp**  
   - _Platform:_ Udemy  
-  - _Topics:_ SQA Basics, SDLC, STLC, Agile, Manual Testing, Automation Testing, API Testing, Performance Testing, Test Planning, Design & Execution, Bug Reporting, Testing Tools
+  - _Topics:_ SQA Basics, SDLC, STLC, Agile, Manual Testing, Automation Testing, API Testing, Performance Testing, Testing Techniques, Test Planning, Design & Execution, Bug Reporting, Testing Tools
 
-- [![Link Icon](https://img.icons8.com/ios-glyphs/30/000000/link.png)](https://drive.google.com/file/d/1nWsQaMWUWw_ZUt8LBokNuxnTBbIe7bWO/view)  
+- [<img src="https://img.icons8.com/ios-glyphs/30/000000/link.png"/>](https://drive.google.com/file/d/1nWsQaMWUWw_ZUt8LBokNuxnTBbIe7bWO/view)  
   **Career Development Program**  
   - _Provided by:_ Spring Rain Pvt Ltd  
   - _Training:_ HTML, CSS, JavaScript, React (three-months training)
 
-- [![Link Icon](https://img.icons8.com/ios-glyphs/30/000000/link.png)](https://www.hackerrank.com/certificates/4567f46fa24e)  
+- [<img src="https://img.icons8.com/ios-glyphs/30/000000/link.png"/>](https://www.hackerrank.com/certificates/4567f46fa24e)  
   **SQL (Basic)**  
   - _Certified by:_ HackerRank  
+  - _Topics:_ SQL Queries, Joins, Aggregate Functions, Database Management
+
 
 
 
