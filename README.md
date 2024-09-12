@@ -35,7 +35,7 @@
 
 - <a href="https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view"><img src="https://img.shields.io/badge/Udemy-Complete_2024_Software_Testing_Bootcamp-orange" height="25"> <img src="https://img.icons8.com/ios-filled/20/0000ff/link.png" alt="link icon"/></a>   
 
-- <a href="https://drive.google.com/file/d/1nWsQaMWUWw_ZUt8LBokNuxnTBbIe7bWO/view"><img src="https://img.shields.io/badge/Spring_Rain_Pvt_Ltd-HTML, CSS, JavaScript, React_(three-months training)-blue" height="25"> <img src="https://img.icons8.com/ios-filled/20/0000ff/link.png" alt="link icon"/></a>   
+- <a href="https://drive.google.com/file/d/1nWsQaMWUWw_ZUt8LBokNuxnTBbIe7bWO/view"><img src="https://img.shields.io/badge/Spring_Rain_Pvt_Ltd-HTML,_CSS,_JavaScript,_React_(three_months_training)-blue" height="25"> <img src="https://img.icons8.com/ios-filled/20/0000ff/link.png" alt="link icon"/></a>   
 
 - <a href="https://www.hackerrank.com/certificates/4567f46fa24e"><img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)_Certification-brightgreen" height="25"> <img src="https://img.icons8.com/ios-filled/20/0000ff/link.png" alt="link icon"/></a>  
 
