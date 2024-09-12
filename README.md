@@ -29,7 +29,22 @@
   <a href="https://discordapp.com/users/1064403364437299280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md. Mobinul Islam#6059" height="30" width="40" /></a>
 </p>
 
-Feel free to check out my repositories and get in touch if you want to collaborate or learn more about my work!
+>> Feel free to check out my repositories and get in touch if you want to collaborate or learn more about my work!
+
+##  Certifications:
+
+- The Complete 2024 Software Testing Bootcamp, Udemy [![Udemy Badge](https://img.shields.io/badge/Udemy-Complete_2024_Software_Testing_Bootcamp-orange)]([https://www.udemy.com](https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view))
+
+SQA Basics • SDLC • STLC • Agile • Manual Testing • Automation Testing • API Testing • Performance Testing • Testing Techniques • Test Planning, Design & Execution • Bug Reporting • Testing Tools
+
+- Career Development Program
+Spring Rain Pvt Ltd.
+Completed a three-month training on HTML, CSS, JavaScript & React.
+
+- SQL (Basic)
+Certified by HackerRank
+
+<br>
 
 
 ## 🚀 Skills & Technologies
@@ -66,13 +81,6 @@ Feel free to check out my repositories and get in touch if you want to collabora
  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 
-  
-<h3 align="left">Certification:</h3>
-<p align="left">
-   <a href="https://www.linkedin.com/in/mobinulislam/overlay/1635525810711/single-media-viewer/?profileId=ACoAAC9pAtMBqx0aZE_bJVcb0oPH3Y-DnlFkLZk" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" alt="icon" width="40" height="40"/> </a>
- <b>  Spring Rain Pvt Ltd. provided a three-months training on HTML, CSS, JavaScript, Node.js & React.</b>
-    </p>
-<br>
 
 
 <!-- platane/snk works, it just puts it on a new branch -->
