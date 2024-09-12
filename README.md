@@ -33,16 +33,14 @@
 
 📚 **Certifications:**
 
-- [![Udemy Badge](https://img.shields.io/badge/Udemy-Complete_2024_Software_Testing_Bootcamp-orange)](https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view)  
-  _The Complete 2024 Software Testing Bootcamp_  
-  SQA Basics • SDLC • STLC • Agile • Manual Testing • Automation Testing • API Testing • Performance Testing • Test Planning, Design & Execution • Bug Reporting • Testing Tools
+- <a href="https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view"><img src="https://img.shields.io/badge/Udemy-Complete_2024_Software_Testing_Bootcamp-orange" height="30"></a>  
+  - _Topics:_ SQA Basics, SDLC, STLC, Agile, Manual Testing, Automation Testing, API Testing, Performance Testing, Testing Techniques, Test Planning, Design & Execution, Bug Reporting, Testing Tools
 
-- [![Spring Rain Badge](https://img.shields.io/badge/Spring_Rain-Career_Development_Program-blue)](https://drive.google.com/file/d/1nWsQaMWUWw_ZUt8LBokNuxnTBbIe7bWO/view)  
-  _Career Development Program_  
-  Completed a three-month training on HTML, CSS, JavaScript & React.
+- <a href="https://drive.google.com/file/d/1nWsQaMWUWw_ZUt8LBokNuxnTBbIe7bWO/view"><img src="https://img.shields.io/badge/Spring_Rain_Pvt_Ltd-Career_Development_Program-blue" height="30"></a>  
+  - _Training:_ HTML, CSS, JavaScript, React (three-months training)
 
-- [![HackerRank Badge](https://img.shields.io/badge/HackerRank-SQL_(Basic)_Certification-brightgreen)](https://www.hackerrank.com/certificates/4567f46fa24e)  
-  _SQL (Basic) Certified by HackerRank_
+- <a href="https://www.hackerrank.com/certificates/4567f46fa24e"><img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)_Certification-brightgreen" height="30"></a>  
+
 
 <br>
 
