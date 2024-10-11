@@ -31,7 +31,7 @@
 
 >> Feel free to check out my repositories and get in touch if you want to collaborate or learn more about my work!
 
-📚 **Certifications:**
+## 📚 Certifications:
 
 - <a href="https://drive.google.com/file/d/11fJ882M8UHk-nKzY9lkxufXFHFJ4F8vr/view"><img src="https://img.shields.io/badge/Udemy-Complete_2024_Software_Testing_Bootcamp-orange" height="25"> <img src="https://img.icons8.com/ios-filled/20/008080/link.png" alt="link icon"/></a>   
 
