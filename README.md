@@ -6,7 +6,9 @@
 
 <br>
 
->> <h3 align="center">Welcome! I am passionate about Software Quality Assurance and am always eager to learn and explore new technologies.</h3> 
+>> <h3 align="center">Welcome! With strong analytical skills and technical expertise, I am eager to begin my career in 
+Software Quality Assurance. I am a quick learner, dedicated to excellence, and ready 
+to contribute effectively to ensure high-quality software solutions.</h3> 
 >> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 Currently learning: Exploring advanced techniques in Software Testing to enhance my skill set.
